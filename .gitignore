@@ -1,0 +1,19 @@
+# Ignore PyCharm settings
+.idea/
+
+# Ignore Virtual Environment (Libraries)
+venv/
+env/
+__pycache__/
+
+# Ignore Generated Files
+*.html
+*.class
+*.log
+
+# Ignore heavy datasets (Optional - un-comment if CSV is >100MB)
+# dataset/
+
+# Ignore Mac/Windows system files
+.DS_Store
+Thumbs.db
