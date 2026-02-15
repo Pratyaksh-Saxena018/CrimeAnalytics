@@ -117,6 +117,7 @@ KAFKA_SERVER = "localhost:9092"
 MAP_FILE = "live_crime_map.html"
 
 # Buffer to store last 100 crimes for the map
+#abcd
 crime_buffer = []
 
 
