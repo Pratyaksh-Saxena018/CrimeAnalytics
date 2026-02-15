@@ -110,7 +110,7 @@ import os
 import time
 from threading import Thread
 import pandas as pd
-
+#it has been changed to add features
 # --- CONFIGURATION ---
 KAFKA_TOPIC = "crime_reports"
 KAFKA_SERVER = "localhost:9092"
